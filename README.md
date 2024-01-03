@@ -70,4 +70,3 @@ If you'd like to contribute to the project, please fork the repository and creat
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Now, your README file is tailored to your project's specific details, including the correct GitHub repository link and the name of your main Python file (`Sent-Analysis.py`).
