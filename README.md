@@ -1,4 +1,4 @@
-Certainly! Below is a simple README file for your Sentiment Analysis project using Streamlit. This README includes instructions on how to install the project, run it, and how to obtain the requirements text file.
+
 
 ```markdown
 # Sentiment Analysis in Streamlit
